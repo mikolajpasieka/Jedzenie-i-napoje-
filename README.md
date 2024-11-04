@@ -23,4 +23,4 @@ Wienerschnitzel | Austria | 1848 | Joseph Radetzky
 # OBRAZY
 
 ![Pizza](https://cdn.aniagotuje.com/pictures/articles/2023/02/38768537-v-1500x1500.jpg)
-![Cheeseburger](cheeseburger.jpg)
+![Cheeseburger](cheeseburger.jpeg)
