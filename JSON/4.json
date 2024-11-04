@@ -1,0 +1,12 @@
+[
+    {
+        "rodzaj_burgera": "cheeseburger",
+        "skladniki": ["kotlet", "ser"],
+        "sos": false,
+        "cena": 14.99,
+        "cena_zestawu": 22.99,
+        "zawartosc_zestawu": ["cheeseburger", "frytki", "napoj"],
+        "pozycja_w_menu": 3,
+        "pozycja_zestawu_w_menu": 4
+    }
+]
