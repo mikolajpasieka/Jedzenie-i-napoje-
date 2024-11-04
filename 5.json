@@ -1,0 +1,44 @@
+[
+    {
+        "danie": "cheeseburger",
+        "rodzaj": "burger",
+        "cena": 14.99,
+        "pozycja_w_menu": 3,
+        "opcja_zestawu": true
+    },
+    {
+        "danie": "hamburger",
+        "rodzaj": "burger",
+        "cena": 15.99,
+        "pozycja_w_menu": 1,
+        "opcja_zestawu": true
+    },
+    {
+        "danie": "frytki",
+        "rodzaj": "dodatek",
+        "cena": 5.99,
+        "pozycja_w_menu": 9,
+        "opcja_zestawu": false
+    },
+    {
+        "danie": "salatka",
+        "rodzaj": "dodatek",
+        "cena": 8.99,
+        "pozycja_w_menu": 10,
+        "opcja_zestawu": false
+    },
+    {
+        "danie": "nuggets",
+        "rodzaj": "kurczak",
+        "cena": 10.99,
+        "pozycja_w_menu": 5,
+        "opcja_zestawu": true
+    },
+    {
+        "danie": "skrzydelka",
+        "rodzaj": "kurczak",
+        "cena": 13.99,
+        "pozycja_w_menu": 7,
+        "opcja_zestawu": true
+    }
+]
